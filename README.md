@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Towards Unified Pre-training Framework for 3D&BEV Perception</h1>
+<h1>Towards Unified Pre-training for 3D&BEV Perception</h1>
 <h3>[Official] NS-MAE: A Simple Yet Unified Self-supervised Pre-training</h3>
  <h3>Strategy for LiDAR-Camera 3D Perception</h3>
 
