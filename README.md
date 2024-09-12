@@ -18,7 +18,7 @@ This work proposes a **unified self-supervised pre-training framework for transf
 
 Baseline: Multi-modal/Fusion-based `BEVFusion`
 
-> Notice: Due to the limitation of computation resources, **CBGS/Database-sampler data-augmentation is not used** during pre-training.
+> Notice: Due to the limitation of computation resources, **CBGS/Database-sampler data-augmentation is not used** during pre-training. Also, our experiments are mainly conducted on efficient-version BEVFusion with low-resolution RGB image inputs. We leave the experiments on multi-modal perception models with higher resolution inputs as valuable future work.
 
 
 
