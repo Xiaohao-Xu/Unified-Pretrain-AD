@@ -241,7 +241,7 @@ model:
           mode: bilinear
           align_corners: false
       vtransform:
-        type: LSSTransform
+        type: DepthLSSTransform
         in_channels: 256
         out_channels: 80
         image_size: ${image_size}
