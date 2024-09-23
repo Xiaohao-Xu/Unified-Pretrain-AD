@@ -3,13 +3,10 @@
 <h3>[Official] NS-MAE: A Simple Yet Unified Self-supervised Pre-training</h3>
  <h3>Strategy for LiDAR-Camera 3D Perception</h3>
 
-<video width="640" height="480" controls>
-  <source src="./assets/ICRA25_ID_1777_Supp_Video_NS-MAE.mp4" type="video/mp4">
-</video>
 
  <img src="assets/teaser.jpg" width="400px">
   
-
+[Watch the supplementary video](./assets/ICRA25_ID_1777_Supp_Video_NS-MAE.mp4)
 
 </div>
 
