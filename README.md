@@ -6,7 +6,7 @@
 
  <img src="assets/teaser.jpg" width="400px">
   
-[Watch the supplementary video](./assets/ICRA25_ID_1777_Supp_Video_NS-MAE.mp4)
+[Watch the supplementary video](./assets/Supp_Video_NS-MAE.mp4)
 
 </div>
 
